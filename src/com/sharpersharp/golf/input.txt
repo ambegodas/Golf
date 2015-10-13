@@ -1,0 +1,22 @@
+2
+3 7
+PrincessLeia
+DarthVader
+R2D2
+grumpy DarthVader
+sneezy PrincessLeia R2D2
+dopey DarthVader PrincessLeia R2D2
+doc DarthVader R2D2
+sleepy DarthVader
+bashful
+happy PrincessLeia
+3 6
+CaptainKirk
+MrSpock
+Xindi
+grumpy MrSpock
+sneezy MrSpock
+dopey MrSpock
+doc MrSpock
+sleepy MrSpock
+happy CaptainKirk
